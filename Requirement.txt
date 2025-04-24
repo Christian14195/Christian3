@@ -1,2 +1,2 @@
-1joblib==1.4.2
-2scikit-learn==1.5.2
+joblib==1.4.2
+scikit-learn==1.5.2
